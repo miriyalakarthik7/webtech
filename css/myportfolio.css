@@ -1,0 +1,17 @@
+h1{
+    background-color: rgb(175, 172, 172);
+}
+div{
+    color: cadetblue;
+    width: 850px;
+    height: 500px;
+    background-image: url(https://images.pexels.com/photos/26928375/pexels-photo-26928375.png);
+    background-size: cover;
+    background-position: center;
+}
+p{
+    color: rgb(243, 239, 239);
+    font-size: 20px 40%;
+    
+    
+}
